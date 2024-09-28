@@ -32,6 +32,7 @@ This project uses C++ with REST API integration for fetching real-time NBA playe
    -Install the dependencies listed in the requirements.txt
 
 2. Running the script:
+   ```bash
    - Compile the poeltl_solver application g++ -std=c++17 -pthread -o poeltl_solver poetl.cpp
    - Finally give command ./poeltl_solver to run the script
 
